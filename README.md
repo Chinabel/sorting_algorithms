@@ -4,6 +4,6 @@ BACKGROUND CONTEXT:
 This project is a project on the different types of sorting algorithms. Sorting algorithm is an algorithm that puts elements of a list into an order. 
 It is a pair project.
 
-#TEAM:
+TEAM:
 Chineze Ogugua and
 Steve Obasi
